@@ -687,4 +687,8 @@
     <string name="sms_security_check_limit_summary">Apps can send %s messages in 1 minute before requiring confirmation</string>
     <string name="sms_security_check_limit_summary_none">Apps are not allowed to send any messages without confirmation</string>
     <string name="sms_security_check_limit_always_confirm">Always confirm</string>
+
+    <!-- Brightness slider haptic feedback -->
+    <string name="qs_brightness_slider_haptic_title">Haptic feedback</string>
+    <string name="qs_brightness_slider_haptic_summary">Provide haptic feedback on changing brightness using slider</string>
 </resources>
